@@ -1,12 +1,6 @@
-# rock-scissors-paper
+# rock-scissors-paper game
 Java, polymorphism &amp; Streams
 
-
-## Requirements
-* Add some abstractions.
-* Make some abstractions more abstract.
-* Add some functionality to certain abstractions, while removing it from others. 
-* Making this blabla less abstract: Use polymorphism!
 
 ## Output
 Your output should look something like this:
